@@ -8,7 +8,7 @@ import {Modal, Button, Form, FormGroup} from 'react-bootstrap'
 import styled           from 'styled-components'
 
 const Container = styled.div`
-  background-image: url('https://i.imgur.com/y370FSk.jpg');
+
 `
 
 

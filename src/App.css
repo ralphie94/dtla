@@ -260,12 +260,6 @@
 
 
 /* <-----------  Landing Page CSS  -----------> */
-
-
-.image {
-  background: url("/images/angel-watch-sunset-colors-landscape-2043837.jpg") no-repeat center center;
-  background-size: cover;
- }
  
  .location-box {
   width: 528px;
@@ -276,8 +270,8 @@
  }
  
  .map-header {
-  width: 60rem;
-  height: 137px;
+  width: 50%;
+  height: 15%;
   opacity: 0.53;
   border-radius: 5px;
   border: solid 1px #979797;
@@ -286,6 +280,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  border-radius: 18px 18px 0 0;
  }
 
  .map-wrapper {
